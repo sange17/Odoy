@@ -1,6 +1,8 @@
 # One day one year(Odoy)
 * 이 웹 사이트는 과거에 시간을 어떻게 사용했고 미래에는 시간을 어떻게 사용할 수 있는지 알려줍니다.
 
+<img src="https://user-images.githubusercontent.com/73435545/105004336-2dbe8200-5a77-11eb-85b4-4dd9420cdb7e.PNG">
+
 ## 기술(Skills)
 ### 1. Front-end
 * HTML
